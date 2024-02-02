@@ -5,9 +5,9 @@ __metadata:
   version: 6
   cacheKey: 8
 
-"@cattr/node@workspace:.":
+"@cattr-new/node@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@cattr/node@workspace:."
+  resolution: "@cattr-new/node@workspace:."
   dependencies:
     axios: ^0.27.2
     eslint: ^8.16.0

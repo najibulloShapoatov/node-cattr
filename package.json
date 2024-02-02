@@ -1,22 +1,22 @@
 {
-  "name": "@cattr/node",
+  "name": "@cattr-new/node",
   "version": "4.0.0-RC4",
   "description": "Node.js client for Cattr API",
   "main": "index.js",
   "scripts": {
     "lint": "eslint ."
   },
-  "bugs": "https://git.amazingcat.net/cattr/desktop/node-modules/node-cattr/-/issues",
+  "bugs": "https://github.com/najibulloShapoatov/node-cattr",
   "repository": {
     "type": "git",
-    "url": "https://git.amazingcat.net/cattr/desktop/node-modules/node-cattr.git"
+    "url": "https://github.com/najibulloShapoatov/node-cattr.git"
   },
   "keywords": [
     "cattr"
   ],
-  "author": "Cattr Team & Contributors <hi@cattr.app>",
+  "author": "Cattr",
   "contributors": [
-    "Alex V <alex@cattr.app>"
+    "najibullo"
   ],
   "license": "MIT",
   "dependencies": {
